@@ -10,6 +10,7 @@ This project is a **research-oriented toolkit** designed to support:
 * Writing equity research / financial reports
 
 > This is **NOT** a trading bot and **NOT** an automated investment system.
+---
 > ⚠️ **Note:** The free API of `vnstock` has usage limits, so downloading stock data may sometimes fail due to quota restrictions or access denial (e.g., 403 Forbidden).
 ---
 
